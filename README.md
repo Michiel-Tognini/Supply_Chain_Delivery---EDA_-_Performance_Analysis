@@ -2,6 +2,8 @@
 -------------------------------
 *Main business question: Which routes and fleet segments drive the largest inefficiencies in delivery performance and cost?*<br /><br />
 
+![Screenshot Dashboard](https://github.com/Michiel-Tognini/Supply_Chain_Delivery---EDA_-_Performance_Analysis/blob/4d24764e13375d781d46c08877d72af1b357a756/Screenshot%20Dashboard.png)<br />
+
 This project analyzes logistics performance data from 2022–2024 to identify inefficiencies across transportation routes and fleet operations.<br />
 
 Using SQL and Power BI, the analysis evaluates delivery performance metrics such as on-time delivery rates, delivery delays, cost per mile, and route deviations. The dataset used originates from the Logistics Operations Database (Kaggle).<br />
@@ -14,8 +16,6 @@ The analysis focuses on two perspectives:<br />
 - **Fleet efficiency analysis** to evaluate operational performance across trucks and home terminals<br />
 
 The goal is to uncover opportunities to improve delivery reliability, operational efficiency, and transportation cost management.<br /><br />
-
-![Screenshot Dashboard](https://github.com/Michiel-Tognini/Supply_Chain_Delivery---EDA_-_Performance_Analysis/blob/4d24764e13375d781d46c08877d72af1b357a756/Screenshot%20Dashboard.png)<br />
 
 **2) Key Operational Metrics and Dimensions**<br />
 ---------------------------------------------------
