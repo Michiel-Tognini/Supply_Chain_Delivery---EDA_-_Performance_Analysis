@@ -101,6 +101,7 @@ Key checks included:<br />
 These checks ensured the dataset was consistent, reliable, and suitable for analytical modeling.<br /><br />
 
 **5) Summary of Insights**<br />
+------------------------------------
 **Cost trends**<br />
 Transportation costs improved over time:<br />
 - Total cost per mile decreased significantly from 2022 to 2024<br />
