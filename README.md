@@ -1,6 +1,6 @@
 **1) Project Overview**<br />
 -------------------------------
-*Main business question: Which routes and fleet segments drive the largest inefficiencies in delivery performance and cost?*<br />
+*Main business question: Which routes and fleet segments drive the largest inefficiencies in delivery performance and cost?*<br /><br />
 
 This project analyzes logistics performance data from 2022–2024 to identify inefficiencies across transportation routes and fleet operations.<br />
 
