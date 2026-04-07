@@ -48,6 +48,7 @@ The analysis uses a star schema to support efficient analytics in Power BI.<br /
 - fact_route_cost_year<br />
 - fact_route_service_year<br />
 - fact_truck_cost_year<br />
+
 **Dimension tables**<br />
 - dim_routes<br />
 - dim_trucks<br /><br />
