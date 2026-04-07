@@ -6,7 +6,7 @@ This project analyzes logistics performance data from 2022–2024 to identify in
 
 Using SQL and Power BI, the analysis evaluates delivery performance metrics such as on-time delivery rates, delivery delays, cost per mile, and route deviations. The dataset used originates from the Logistics Operations Database (Kaggle).<br />
 
-SQL was used to perform exploratory data analysis (EDA) and to create a star schema data model consisting of fact and dimension tables, which were then used to build the analytical dashboard in Power BI.<br />
+SQL was used to perform data cleaning, exploratory data analysis (EDA), and to create a star schema data model consisting of fact and dimension tables, which were then used to build the analytical dashboard in Power BI.<br />
 
 The analysis focuses on two perspectives:<br />
 
