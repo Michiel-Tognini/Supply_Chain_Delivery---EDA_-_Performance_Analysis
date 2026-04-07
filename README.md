@@ -15,7 +15,7 @@ The analysis focuses on two perspectives:<br />
 
 The goal is to uncover opportunities to improve delivery reliability, operational efficiency, and transportation cost management.<br /><br />
 
-![Screenshot Dashboard](https://github.com/Michiel-Tognini/Supply_Chain_Delivery---EDA_-_Performance_Analysis/blob/25bc0c7604b92d6e61441cad03f3fa2d7a660c4d/Screenshot%20Dashboard.png)<br />
+![Screenshot Dashboard](https://github.com/Michiel-Tognini/Supply_Chain_Delivery---EDA_-_Performance_Analysis/blob/4d24764e13375d781d46c08877d72af1b357a756/Screenshot%20Dashboard.png)<br />
 
 **2) Key Operational Metrics and Dimensions**<br />
 ---------------------------------------------------
