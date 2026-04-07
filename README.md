@@ -185,14 +185,20 @@ This suggests an opportunity to increase utilization of moderately used trucks, 
 
 **6) Recommendations**<br />
 -----------------------------
-**Answer to the main business question:**<br />
-The largest inefficiencies originate from specific routes and regional fleet operations rather than system-wide issues.<br /><br />
+*Answer to the main business question:*<br />
+The analysis shows that operational inefficiencies are mainly driven by route-level service performance, while cost differences are more visible at the truck level rather than between routes.<br />
 
-**Prioritize route optimization**<br />
-Focus on underperforming routes, particularly those originating from Seattle, to investigate routing, congestion, or scheduling inefficiencies.<br /><br />
+Across routes, fuel cost per mile and maintenance cost per mile remain relatively consistent, indicating that route choice does not strongly affect transportation cost. However, clear differences in delivery delays and distance deviations reveal operational inefficiencies on specific routes.<br />
 
-**Address regional operational issues**<br />
-Clusters of underperforming trucks at terminals such as Seattle and Portland indicate potential operational or management issues.<br /><br />
+At the fleet level, efficiency varies based on the combination of miles driven and cost per mile, highlighting the importance of fleet utilization and operational management.<br /><br />
+
+**Key recommendations**<br />
+
+**Prioritize operational improvements on inefficient routes**<br />
+Routes with high delivery delays and distance deviations should be investigated to improve routing, scheduling, and dispatching. The consistent underperformance of Seattle-origin routes suggests regional operational challenges.<br />
 
 **Improve fleet utilization**<br />
-Increasing the mileage utilization of trucks currently driving 400k–450k miles annually could reduce the required fleet size and improve cost efficiency.
+Since cost variation appears mainly at the truck level, increasing utilization of trucks currently driving 400k–450k miles annually could improve asset efficiency and reduce the need for additional vehicles.<br />
+
+**Investigate terminal-level performance differences**<br />
+Clusters of underperforming trucks at terminals such as Seattle, Portland, and Minneapolis indicate potential differences in operational practices that should be further analyzed.
