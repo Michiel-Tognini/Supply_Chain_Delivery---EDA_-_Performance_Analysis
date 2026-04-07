@@ -177,7 +177,7 @@ Annual mileage distribution:<br />
 - 71 trucks drive 450k–500k miles<br />
 - 4 trucks exceed 500k miles<br /><br />
 
-This suggests an opportunity to increase utilization of moderately used trucks, potentially reducing the required fleet size and lowering maintenance costs.<br /><br /><br /><br />
+This suggests an opportunity to increase utilization of moderately used trucks, potentially reducing the required fleet size and lowering maintenance costs.<br /><br />
 
 **6) Recommendations**<br />
 -----------------------------
