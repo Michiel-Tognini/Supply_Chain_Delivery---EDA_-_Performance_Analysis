@@ -107,7 +107,7 @@ Transportation costs improved over time:<br />
 - Total cost per mile decreased significantly from 2022 to 2024<br />
 - Both fuel and maintenance costs per mile declined<br /><br />
 
-On the contrary, no significant differences were found in total maintenance cost per mile and total fuel cost per mile between the total of analyzed routes<br /><br />
+No significant differences were found in total maintenance cost per mile and total fuel cost per mile between the total of analyzed routes. On the contrary, on the truck level differences in costs were observed and hence are taken into account in the Fleet efficiency insights<br /><br />
   
 **Delivery performance stability**<br />
 Despite cost improvements:<br />
@@ -165,7 +165,7 @@ Best performing terminals include:<br />
 - Las Vegas<br /><br />
 
 Worst performing terminals include:<br />
-*(Low number of total miles driven + high total cost per mile (fuel+maintenenace))*br />
+*(Low number of total miles driven + high total cost per mile (fuel+maintenance))*<br />
 - Seattle<br />
 - Portland<br />
 - Minneapolis<br />
