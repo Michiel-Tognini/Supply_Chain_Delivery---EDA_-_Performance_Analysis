@@ -47,14 +47,12 @@ The analysis uses a star schema to support efficient analytics in Power BI.<br /
 **Fact tables**<br />
 - fact_route_cost_year<br />
 - fact_route_service_year<br />
-- fact_truck_cost_year<br /><br />
-
+- fact_truck_cost_year<br />
 **Dimension tables**<br />
 - dim_routes<br />
 - dim_trucks<br /><br />
 
-Route-related fact tables are linked through route_id, while truck operational data connects through truck_id.<br /><br />
-
+Route-related fact tables are linked through route_id, while truck operational data connects through truck_id.<br />
 This structure enables separate but complementary analysis of route efficiency and fleet efficiency.<br /><br />
 
 **4) Data Quality Checks & Exploratory Analysis (SQL)**<br />
