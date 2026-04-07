@@ -113,7 +113,7 @@ Despite cost improvements:<br />
 - Route performance distribution stayed consistent across years<br /><br />
 
 **Best performing routes**<br />
-*(Low delay + low deviation)*<br /><br />
+*(Low delay + low distance deviation)*<br /><br />
 
 15 routes consistently perform well, including:<br /><br />
 
@@ -130,7 +130,7 @@ and others.<br /><br />
 These routes demonstrate efficient operations and reliable delivery performance.<br /><br />
 
 **Worst performing routes**<br />
-*(High delay + high deviation)*<br /><br />
+*(High delay + high distance deviation)*<br /><br />
 
 13 routes show persistent inefficiencies, including:<br /><br />
 
