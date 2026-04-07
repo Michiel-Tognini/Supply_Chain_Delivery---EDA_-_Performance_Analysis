@@ -15,6 +15,8 @@ The analysis focuses on two perspectives:<br />
 
 The goal is to uncover opportunities to improve delivery reliability, operational efficiency, and transportation cost management.<br /><br />
 
+![Screenshot Dashboard](https://github.com/koptelevoon/Data-cleaning/blob/bb62cd1be1a0c791c2ee69e1006ee9a57e0a4da5/Screenshot%20dashboard.png)<br />
+
 **2) Key Operational Metrics and Dimensions**<br />
 ---------------------------------------------------
 **Key Metrics**<br />
