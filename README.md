@@ -158,7 +158,7 @@ This indicates regional logistics inefficiencies within the network.<br /><br />
 Truck efficiency varies by home terminal location.<br /><br />
 
 Best performing terminals include:<br />
-*(High number of total miles driven + low total cost per mile (fuel+maintenenace))*br />
+*(High number of total miles driven + low total cost per mile (fuel+maintenance))*<br />
 - Charlotte<br />
 - Denver<br />
 - Kansas City<br />
