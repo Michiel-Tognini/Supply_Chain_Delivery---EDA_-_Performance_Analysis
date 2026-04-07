@@ -1,6 +1,6 @@
 **1) Project Overview**<br />
 -------------------------------
-*Main business question: Which routes and fleet segments drive the largest inefficiencies in delivery performance and cost?*<br /><br />
+*Main business question: Which routes and fleet segments drive the largest inefficiencies in delivery performance and cost?*<br />
 
 ![Screenshot Dashboard](https://github.com/Michiel-Tognini/Supply_Chain_Delivery---EDA_-_Performance_Analysis/blob/4d24764e13375d781d46c08877d72af1b357a756/Screenshot%20Dashboard.png)<br />
 
