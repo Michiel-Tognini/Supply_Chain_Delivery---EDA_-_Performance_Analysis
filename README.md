@@ -106,6 +106,8 @@ These checks ensured the dataset was consistent, reliable, and suitable for anal
 Transportation costs improved over time:<br />
 - Total cost per mile decreased significantly from 2022 to 2024<br />
 - Both fuel and maintenance costs per mile declined<br /><br />
+
+On the contrary, no significant differences were found in total maintenance cost per mile and total fuel cost per mile between the total of analyzed routes<br /><br />
   
 **Delivery performance stability**<br />
 Despite cost improvements:<br />
