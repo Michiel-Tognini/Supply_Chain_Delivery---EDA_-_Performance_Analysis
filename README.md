@@ -43,8 +43,7 @@ These metrics allow performance analysis across routes, time periods, and fleet 
 
 **3) Data Preparation & Modeling**<br />
 -------------------------------------------
-
-The analysis uses a star schema to support efficient analytics in Power BI.<br /><br />
+The analysis uses a star schema to support efficient analytics in Power BI.<br />
 
 **Fact tables**<br />
 - fact_route_cost_year<br />
