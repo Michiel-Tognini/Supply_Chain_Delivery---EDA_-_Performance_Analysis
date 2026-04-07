@@ -115,8 +115,7 @@ Despite cost improvements:<br />
 **Best performing routes**<br />
 *(Low delay + low distance deviation)*<br /><br />
 
-15 routes consistently perform well, including:<br /><br />
-
+15 routes consistently perform well, including:<br />
 Atlanta–Miami<br />
 Dallas–Denver<br />
 Houston–Memphis<br />
@@ -132,8 +131,7 @@ These routes demonstrate efficient operations and reliable delivery performance.
 **Worst performing routes**<br />
 *(High delay + high distance deviation)*<br /><br />
 
-13 routes show persistent inefficiencies, including:<br /><br />
-
+13 routes show persistent inefficiencies, including:<br />
 Charlotte–Denver<br />
 Dallas–New York<br />
 Houston–Seattle<br />
