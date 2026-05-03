@@ -15,7 +15,15 @@ The analysis focuses on two perspectives:<br />
 - **Route performance analysis** to identify inefficient delivery routes<br />
 - **Fleet efficiency analysis** to evaluate operational performance across trucks and home terminals<br />
 
-The goal is to uncover opportunities to improve delivery reliability, operational efficiency, and transportation cost management.<br /><br />
+The goal is to uncover opportunities to improve delivery reliability, operational efficiency, and transportation cost management.<br />
+
+## Data Source<br />
+
+This project uses the dataset **"Logistics Operations Database"** from Kaggle.<br />
+
+- Source: https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/datasets/yogape/logistics-operations-database<br />
+- Author: Yogape Rodriguez<br />
+- License: MIT<br /><br />
 
 **2) Key Operational Metrics and Dimensions**<br />
 ---------------------------------------------------
