@@ -21,7 +21,7 @@ The goal is to uncover opportunities to improve delivery reliability, operationa
 
 This project uses the dataset **"Logistics Operations Database"** from Kaggle.<br />
 
-- Source: https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/datasets/yogape/logistics-operations-database<br />
+- Source: https://www.kaggle.com/datasets/yogape/logistics-operations-database<br />
 - Author: Yogape Rodriguez<br />
 - License: MIT<br /><br />
 
